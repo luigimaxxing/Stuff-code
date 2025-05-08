@@ -22,7 +22,7 @@ class QMayaWindow(QWidget):
        
  
     def GetWindowHash(self):
-        return "sdsdfhsdfisdfnsdsdwerisdhfakl213hradfhafafjai"
+        return "sdsdfhsdfisdfnsd6dwerisdhfakl213hradfhafafjai"
  
  
 def IsMesh(obj):
