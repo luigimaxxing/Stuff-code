@@ -18,3 +18,10 @@ modular approach
 The new tool allows for saving not only animation states but also allows for exporting to unreal from maya, making the process simpler than having to do it manually. THis tool allows the user to save animation states and import them along with the model into unreal just using one addon.
 
 For example, the animation state code takes a animation, saves the frames and then saves it as a state for it to later than be edited with in in unreal engine.
+
+
+
+
+## Maya to Unreal
+
+This exentsion allows for the exporting of maya to unreal along with the ability to set the scale of the model during exporting, saving adjusting in egnine or pre exporting, now allowing for it to be automatically apart of the process
